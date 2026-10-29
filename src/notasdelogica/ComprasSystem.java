@@ -3,7 +3,7 @@ package notasdelogica;
 import java.util.Scanner;
 
 public class ComprasSystem {
-
+    // Como podemos registrar un usuario , que pueda iniciar sesion y si lo hace pueda registrar precios y productos
     static Scanner sc = new Scanner(System.in);
 
     static String [] productos = new String[5];
